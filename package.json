@@ -1,4 +1,5 @@
 {
+	"name": "cjs-test",
 	"main": "index.js",
 	"module": "index.module.js"
 }
